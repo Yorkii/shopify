@@ -64,6 +64,8 @@ use GuzzleHttp\Exception\RequestException;
 
 class Client
 {
+    const VERSION = '1.0.0-beta';
+
     /**
      * @var \GuzzleHttp\Client
      */
@@ -604,6 +606,7 @@ class Client
     {
         return [
             'Authorization' => 'Basic ' . base64_encode($this->apiKey . ':' . $this->apiPassword),
+            'User-Agent' => 'YorkiShopify/' . self::VERSION,
         ];
     }
 
