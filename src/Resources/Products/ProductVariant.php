@@ -1,13 +1,13 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Products;
+namespace Yorki\Shopify\Resources\Products;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Products\ProductVariantCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Metafield\Metafield;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Depends;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Products\ProductVariantCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Metafield\Metafield;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Depends;
 use \Carbon\Carbon;
 
 /**

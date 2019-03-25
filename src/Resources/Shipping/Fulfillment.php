@@ -1,21 +1,21 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Shipping;
+namespace Yorki\Shopify\Resources\Shipping;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Shipping\FulfillmentCriteria;
-use Yorkii\Shopify\Properties\Orders\LineItem;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Cancels;
-use Yorkii\Shopify\Resources\Traits\Completes;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\CreatesAndSaves;
-use Yorkii\Shopify\Resources\Traits\Depends;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
-use Yorkii\Shopify\Resources\Traits\Opens;
-use Yorkii\Shopify\Resources\Traits\Passes;
-use Yorkii\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Shipping\FulfillmentCriteria;
+use Yorki\Shopify\Properties\Orders\LineItem;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Cancels;
+use Yorki\Shopify\Resources\Traits\Completes;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\CreatesAndSaves;
+use Yorki\Shopify\Resources\Traits\Depends;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Traits\Opens;
+use Yorki\Shopify\Resources\Traits\Passes;
+use Yorki\Shopify\Resources\Traits\Provides;
 use \Carbon\Carbon;
 
 /**

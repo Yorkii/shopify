@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Traits;
+namespace Yorki\Shopify\Traits;
 
-use Yorkii\Shopify\Collection;
+use Yorki\Shopify\Collection;
 use Carbon\Carbon;
 
 trait Casts

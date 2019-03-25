@@ -1,15 +1,15 @@
 <?php
 
-namespace  Yorkii\Shopify\Resources\Plus;
+namespace  Yorki\Shopify\Resources\Plus;
 
-use Yorkii\Shopify\Criteria\Plus\GiftCardCriteria;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\CreatesAndSaves;
-use Yorkii\Shopify\Resources\Traits\Disables;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
-use Yorkii\Shopify\Resources\Traits\Searches;
+use Yorki\Shopify\Criteria\Plus\GiftCardCriteria;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\CreatesAndSaves;
+use Yorki\Shopify\Resources\Traits\Disables;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Traits\Searches;
 use \Carbon\Carbon;
 
 /**

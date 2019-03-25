@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\SalesChannels;
+namespace Yorki\Shopify\Resources\SalesChannels;
 
-use Yorkii\Shopify\Properties\SalesChannels\ShippingRate;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Completes;
-use Yorkii\Shopify\Resources\Traits\CreatesAndSaves;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Properties\SalesChannels\ShippingRate;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Completes;
+use Yorki\Shopify\Resources\Traits\CreatesAndSaves;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 use \Carbon\Carbon;
 
 /**
@@ -48,7 +48,7 @@ class Checkout extends Base
     /**
      * @throws \Exception
      *
-     * @return \Yorkii\Shopify\Collection
+     * @return \Yorki\Shopify\Collection
      */
     public function shippingRates()
     {

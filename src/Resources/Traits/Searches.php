@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Traits;
+namespace Yorki\Shopify\Resources\Traits;
 
-use Yorkii\Shopify\Collection;
+use Yorki\Shopify\Collection;
 
 trait Searches
 {

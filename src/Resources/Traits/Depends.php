@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Traits;
+namespace Yorki\Shopify\Resources\Traits;
 
-use Yorkii\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Base;
 
 trait Depends
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\StoreProperties;
+namespace Yorki\Shopify\Resources\StoreProperties;
 
-use Yorkii\Shopify\Criteria\StoreProperties\CountryCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Criteria\StoreProperties\CountryCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Provides;
 
 /**
  * @property int $id

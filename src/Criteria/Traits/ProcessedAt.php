@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Traits;
+namespace Yorki\Shopify\Criteria\Traits;
 
 /**
  * @method $this whereProcessedAtMin($processedAtMin)

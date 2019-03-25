@@ -1,15 +1,15 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Orders;
+namespace Yorki\Shopify\Resources\Orders;
 
-use Yorkii\Shopify\Criteria\Orders\TransactionCriteria;
-use Yorkii\Shopify\Properties\Orders\PaymentDetails;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Creates;
-use Yorkii\Shopify\Resources\Traits\Depends;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Criteria\Orders\TransactionCriteria;
+use Yorki\Shopify\Properties\Orders\PaymentDetails;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Creates;
+use Yorki\Shopify\Resources\Traits\Depends;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 use \Carbon\Carbon;
 
 /**

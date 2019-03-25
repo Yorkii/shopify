@@ -1,16 +1,16 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Billing;
+namespace Yorki\Shopify\Resources\Billing;
 
-use Yorkii\Shopify\Criteria\Billing\RecurringApplicationChargeCriteria;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Activates;
-use Yorkii\Shopify\Resources\Traits\Creates;
-use Yorkii\Shopify\Resources\Traits\Customizes;
-use Yorkii\Shopify\Resources\Traits\Deletes;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
-use Yorkii\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Criteria\Billing\RecurringApplicationChargeCriteria;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Activates;
+use Yorki\Shopify\Resources\Traits\Creates;
+use Yorki\Shopify\Resources\Traits\Customizes;
+use Yorki\Shopify\Resources\Traits\Deletes;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Traits\Provides;
 use \Carbon\Carbon;
 
 /**

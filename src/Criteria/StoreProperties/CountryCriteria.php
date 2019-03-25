@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\StoreProperties;
+namespace Yorki\Shopify\Criteria\StoreProperties;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\SimpleCriteria;
 
 class CountryCriteria extends SimpleCriteria
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace  Yorkii\Shopify\Resources\Plus;
+namespace  Yorki\Shopify\Resources\Plus;
 
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsCurrent;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsCurrent;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 
 /**
  * @property bool $account_owner

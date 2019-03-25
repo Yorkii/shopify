@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Orders;
+namespace Yorki\Shopify\Criteria\Orders;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
-use Yorkii\Shopify\Criteria\Traits\CreatedAt;
-use Yorkii\Shopify\Criteria\Traits\ProcessedAt;
-use Yorkii\Shopify\Criteria\Traits\UpdatedAt;
+use Yorki\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\Traits\CreatedAt;
+use Yorki\Shopify\Criteria\Traits\ProcessedAt;
+use Yorki\Shopify\Criteria\Traits\UpdatedAt;
 
 /**
  * @method $this whereAttributionAppId($attributionAppId)

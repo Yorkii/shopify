@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Analytics;
+namespace Yorki\Shopify\Resources\Analytics;
 
-use Yorkii\Shopify\Criteria\Analytics\ReportCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Criteria\Analytics\ReportCriteria;
+use Yorki\Shopify\Resources\BaseResource;
 use \Carbon\Carbon;
 
 /**

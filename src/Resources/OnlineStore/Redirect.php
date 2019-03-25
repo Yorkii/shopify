@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\OnlineStore;
+namespace Yorki\Shopify\Resources\OnlineStore;
 
-use Yorkii\Shopify\Criteria\OnlineStore\RedirectCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Criteria\OnlineStore\RedirectCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
 
 /**
  * @property int $id

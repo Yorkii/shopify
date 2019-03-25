@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Discounts;
+namespace Yorki\Shopify\Criteria\Discounts;
 
-use Yorkii\Shopify\Criteria\Base;
-use Yorkii\Shopify\Criteria\Traits\CreatedAt;
-use Yorkii\Shopify\Criteria\Traits\EndsAt;
-use Yorkii\Shopify\Criteria\Traits\StartsAt;
-use Yorkii\Shopify\Criteria\Traits\UpdatedAt;
+use Yorki\Shopify\Criteria\Base;
+use Yorki\Shopify\Criteria\Traits\CreatedAt;
+use Yorki\Shopify\Criteria\Traits\EndsAt;
+use Yorki\Shopify\Criteria\Traits\StartsAt;
+use Yorki\Shopify\Criteria\Traits\UpdatedAt;
 
 /**
  * @method $this whereSinceId($sinceId)

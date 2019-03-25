@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Customers;
+namespace Yorki\Shopify\Criteria\Customers;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\SimpleCriteria;
 
 class CustomerSavedSearchCriteria extends SimpleCriteria
 {

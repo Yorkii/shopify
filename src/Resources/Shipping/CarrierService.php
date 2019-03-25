@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Shipping;
+namespace Yorki\Shopify\Resources\Shipping;
 
-use Yorkii\Shopify\Criteria\Shipping\CarrierServiceCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Criteria\Shipping\CarrierServiceCriteria;
+use Yorki\Shopify\Resources\BaseResource;
 
 /**
  * @property bool $active

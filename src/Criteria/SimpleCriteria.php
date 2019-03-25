@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria;
+namespace Yorki\Shopify\Criteria;
 
 /**
  * @method $this whereSinceId($sinceId)

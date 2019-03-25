@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Events\Collection;
+namespace Yorki\Shopify\Events\Collection;
 
-use Yorkii\Shopify\Events\Base;
+use Yorki\Shopify\Events\Base;
 use \Carbon\Carbon;
 
 /**

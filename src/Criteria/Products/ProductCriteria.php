@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Products;
+namespace Yorki\Shopify\Criteria\Products;
 
-use Yorkii\Shopify\Criteria\Base;
-use Yorkii\Shopify\Criteria\Traits\CreatedAt;
-use Yorkii\Shopify\Criteria\Traits\PublishedAt;
-use Yorkii\Shopify\Criteria\Traits\UpdatedAt;
+use Yorki\Shopify\Criteria\Base;
+use Yorki\Shopify\Criteria\Traits\CreatedAt;
+use Yorki\Shopify\Criteria\Traits\PublishedAt;
+use Yorki\Shopify\Criteria\Traits\UpdatedAt;
 
 /**
  * @method $this whereIds(array $ids)

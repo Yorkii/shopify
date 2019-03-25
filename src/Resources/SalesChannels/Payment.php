@@ -1,14 +1,14 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\SalesChannels;
+namespace Yorki\Shopify\Resources\SalesChannels;
 
-use Yorkii\Shopify\Properties\SalesChannels\CreditCard;
-use Yorkii\Shopify\Properties\SalesChannels\Transaction;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Creates;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Properties\SalesChannels\CreditCard;
+use Yorki\Shopify\Properties\SalesChannels\Transaction;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Creates;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 
 /**
  * @property-read CreditCard $credit_card

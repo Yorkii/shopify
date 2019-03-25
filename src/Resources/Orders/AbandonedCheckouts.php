@@ -1,19 +1,19 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Orders;
+namespace Yorki\Shopify\Resources\Orders;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Orders\AbandonedCheckoutsCriteria;
-use Yorkii\Shopify\Properties\Orders\AbandonedCheckoutShippingLine;
-use Yorkii\Shopify\Properties\Orders\DiscountCode;
-use Yorkii\Shopify\Properties\Orders\LineItem;
-use Yorkii\Shopify\Properties\Orders\NameValueProperty;
-use Yorkii\Shopify\Properties\Orders\TaxLine;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Customers\Customer;
-use Yorkii\Shopify\Resources\Customers\CustomerAddress;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Orders\AbandonedCheckoutsCriteria;
+use Yorki\Shopify\Properties\Orders\AbandonedCheckoutShippingLine;
+use Yorki\Shopify\Properties\Orders\DiscountCode;
+use Yorki\Shopify\Properties\Orders\LineItem;
+use Yorki\Shopify\Properties\Orders\NameValueProperty;
+use Yorki\Shopify\Properties\Orders\TaxLine;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Customers\Customer;
+use Yorki\Shopify\Resources\Customers\CustomerAddress;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\GetsAll;
 use \Carbon\Carbon;
 
 /**

@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Events;
+namespace Yorki\Shopify\Criteria\Events;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
-use Yorkii\Shopify\Criteria\Traits\CreatedAt;
+use Yorki\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\Traits\CreatedAt;
 
 /**
  * @method $this whereFilter($filter)

@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Events\CustomerSavedSearch;
+namespace Yorki\Shopify\Events\CustomerSavedSearch;
 
-use Yorkii\Shopify\Events\Base;
+use Yorki\Shopify\Events\Base;
 use \Carbon\Carbon;
 
 /**

@@ -1,26 +1,26 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Orders;
+namespace Yorki\Shopify\Resources\Orders;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Orders\OrderCriteria;
-use Yorkii\Shopify\Properties\Orders\ClientDetails;
-use Yorkii\Shopify\Properties\Orders\DiscountApplication;
-use Yorkii\Shopify\Properties\Orders\DiscountCode;
-use Yorkii\Shopify\Properties\Orders\LineItem;
-use Yorkii\Shopify\Properties\Orders\NameValueProperty;
-use Yorkii\Shopify\Properties\Orders\PaymentDetails;
-use Yorkii\Shopify\Properties\Orders\ShippingLine;
-use Yorkii\Shopify\Properties\Orders\TaxLine;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Customers\Customer;
-use Yorkii\Shopify\Resources\Customers\CustomerAddress;
-use Yorkii\Shopify\Resources\Shipping\Fulfillment;
-use Yorkii\Shopify\Resources\Traits\Cancels;
-use Yorkii\Shopify\Resources\Traits\Closes;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Opens;
-use Yorkii\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Orders\OrderCriteria;
+use Yorki\Shopify\Properties\Orders\ClientDetails;
+use Yorki\Shopify\Properties\Orders\DiscountApplication;
+use Yorki\Shopify\Properties\Orders\DiscountCode;
+use Yorki\Shopify\Properties\Orders\LineItem;
+use Yorki\Shopify\Properties\Orders\NameValueProperty;
+use Yorki\Shopify\Properties\Orders\PaymentDetails;
+use Yorki\Shopify\Properties\Orders\ShippingLine;
+use Yorki\Shopify\Properties\Orders\TaxLine;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Customers\Customer;
+use Yorki\Shopify\Resources\Customers\CustomerAddress;
+use Yorki\Shopify\Resources\Shipping\Fulfillment;
+use Yorki\Shopify\Resources\Traits\Cancels;
+use Yorki\Shopify\Resources\Traits\Closes;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Opens;
+use Yorki\Shopify\Resources\Traits\Provides;
 use \Carbon\Carbon;
 
 /**

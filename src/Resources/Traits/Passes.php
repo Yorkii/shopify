@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Traits;
+namespace Yorki\Shopify\Resources\Traits;
 
 trait Passes
 {

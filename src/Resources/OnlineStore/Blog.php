@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\OnlineStore;
+namespace Yorki\Shopify\Resources\OnlineStore;
 
-use Yorkii\Shopify\Criteria\OnlineStore\BlogCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Metafield\Metafield;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Criteria\OnlineStore\BlogCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Metafield\Metafield;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Provides;
 use \Carbon\Carbon;
 
 /**

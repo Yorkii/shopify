@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\Orders;
+namespace Yorki\Shopify\Properties\Orders;
 
-use Yorkii\Shopify\Properties\Base;
+use Yorki\Shopify\Properties\Base;
 
 /**
  * @property-read LineItem $line_item

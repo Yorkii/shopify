@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify;
+namespace Yorki\Shopify;
 
 class Collection implements \IteratorAggregate, \Countable, \ArrayAccess
 {

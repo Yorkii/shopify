@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Products;
+namespace Yorki\Shopify\Criteria\Products;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\SimpleCriteria;
 
 class ProductImageCriteria extends SimpleCriteria
 {

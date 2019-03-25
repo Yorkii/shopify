@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Events\Refund;
+namespace Yorki\Shopify\Events\Refund;
 
-use Yorkii\Shopify\Events\Base;
+use Yorki\Shopify\Events\Base;
 use \Carbon\Carbon;
 
 /**

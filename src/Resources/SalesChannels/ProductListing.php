@@ -1,15 +1,15 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\SalesChannels;
+namespace Yorki\Shopify\Resources\SalesChannels;
 
-use Yorkii\Shopify\Criteria\SalesChannels\ProductListingCriteria;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Products\ProductVariant;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\CreatesAndSaves;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Criteria\SalesChannels\ProductListingCriteria;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Products\ProductVariant;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\CreatesAndSaves;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 use \Carbon\Carbon;
 
 /**

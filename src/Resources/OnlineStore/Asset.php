@@ -1,14 +1,14 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\OnlineStore;
+namespace Yorki\Shopify\Resources\OnlineStore;
 
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Deletes;
-use Yorkii\Shopify\Resources\Traits\Depends;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
-use Yorkii\Shopify\Resources\Traits\Saves;
-use Yorkii\Shopify\Resources\Traits\Updates;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Deletes;
+use Yorki\Shopify\Resources\Traits\Depends;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Traits\Saves;
+use Yorki\Shopify\Resources\Traits\Updates;
 use \Carbon\Carbon;
 
 /**

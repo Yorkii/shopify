@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\MarketingEvent;
+namespace Yorki\Shopify\Properties\MarketingEvent;
 
-use Yorkii\Shopify\Properties\Base;
+use Yorki\Shopify\Properties\Base;
 
 /**
  * @property string $utm_campaign

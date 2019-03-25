@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\OnlineStore;
+namespace Yorki\Shopify\Resources\OnlineStore;
 
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Provides;
 use \Carbon\Carbon;
 
 /**

@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Properties;
+namespace Yorki\Shopify\Properties;
 
-use Yorkii\Shopify\Data;
+use Yorki\Shopify\Data;
 
 class Base extends Data
 {

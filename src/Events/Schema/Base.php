@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Events\Schema;
+namespace Yorki\Shopify\Events\Schema;
 
-use Yorkii\Shopify\Client;
-use Yorkii\Shopify\Data;
+use Yorki\Shopify\Client;
+use Yorki\Shopify\Data;
 
 class Base extends Data
 {

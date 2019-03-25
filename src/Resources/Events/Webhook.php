@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Events;
+namespace Yorki\Shopify\Resources\Events;
 
-use Yorkii\Shopify\Criteria\Events\WebhookCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Criteria\Events\WebhookCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
 use \Carbon\Carbon;
 
 /**

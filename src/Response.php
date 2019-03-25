@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify;
+namespace Yorki\Shopify;
 
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\StreamInterface;

@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Inventory;
+namespace Yorki\Shopify\Resources\Inventory;
 
-use Yorkii\Shopify\Properties\Inventory\InventoryLevel;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Properties\Inventory\InventoryLevel;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 use \Carbon\Carbon;
 
 /**
@@ -70,7 +70,7 @@ class Location extends Base
     /**
      * @throws \Exception
      *
-     * @return \Yorkii\Shopify\Collection
+     * @return \Yorki\Shopify\Collection
      */
     public function inventoryLevels()
     {

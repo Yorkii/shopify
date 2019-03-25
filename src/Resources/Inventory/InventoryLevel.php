@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\Inventory;
+namespace Yorki\Shopify\Properties\Inventory;
 
-use Yorkii\Shopify\Criteria\Inventory\InventoryLevelCriteria;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Criteria\Inventory\InventoryLevelCriteria;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\GetsAll;
 use \Carbon\Carbon;
 
 /**

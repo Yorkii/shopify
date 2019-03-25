@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Metafield;
+namespace Yorki\Shopify\Resources\Metafield;
 
-use Yorkii\Shopify\Criteria\Inventory\MetafieldCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Criteria\Inventory\MetafieldCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
 use \Carbon\Carbon;
 
 /**

@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\StoreProperties;
+namespace Yorki\Shopify\Resources\StoreProperties;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\StoreProperties\ShippingZoneCriteria;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\StoreProperties\ShippingZoneCriteria;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\GetsAll;
 
 /**
  * @property-read Collection $countries

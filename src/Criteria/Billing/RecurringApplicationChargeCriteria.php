@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Billing;
+namespace Yorki\Shopify\Criteria\Billing;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\SimpleCriteria;
 
 class RecurringApplicationChargeCriteria extends SimpleCriteria
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Customers;
+namespace Yorki\Shopify\Resources\Customers;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Customers\CustomerSavedSearchCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Customers\CustomerSavedSearchCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
 use \Carbon\Carbon;
 
 /**

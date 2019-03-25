@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\Products;
+namespace Yorki\Shopify\Properties\Products;
 
-use Yorkii\Shopify\Properties\Base;
+use Yorki\Shopify\Properties\Base;
 
 /**
  * @property string $src

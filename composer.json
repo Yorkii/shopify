@@ -1,5 +1,5 @@
 {
-  "name": "yorkii/shopify",
+  "name": "yorki/shopify",
   "description": "Shopify API Client",
   "license": "MIT",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Yorkii\\Shopify\\": "src/"
+      "Yorki\\Shopify\\": "src/"
     }
   },
   "autoload-dev": {

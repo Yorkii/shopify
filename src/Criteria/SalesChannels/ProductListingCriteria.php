@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\SalesChannels;
+namespace Yorki\Shopify\Criteria\SalesChannels;
 
-use Yorkii\Shopify\Criteria\Base;
+use Yorki\Shopify\Criteria\Base;
 
 /**
  * @method $this whereProductIds($productIds)

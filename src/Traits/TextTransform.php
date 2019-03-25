@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify\Traits;
+namespace Yorki\Shopify\Traits;
 
 trait TextTransform
 {

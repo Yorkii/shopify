@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Inventory;
+namespace Yorki\Shopify\Resources\Inventory;
 
-use Yorkii\Shopify\Criteria\Inventory\InventoryItemCriteria;
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
-use Yorkii\Shopify\Resources\Traits\Updates;
+use Yorki\Shopify\Criteria\Inventory\InventoryItemCriteria;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Traits\Updates;
 use \Carbon\Carbon;
 
 /**

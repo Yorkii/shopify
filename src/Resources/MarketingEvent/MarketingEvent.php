@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\MarketingEvent;
+namespace Yorki\Shopify\Resources\MarketingEvent;
 
-use Yorkii\Shopify\Properties\MarketingEvent\UtmParameters;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Properties\MarketingEvent\UtmParameters;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
 use \Carbon\Carbon;
 
 /**

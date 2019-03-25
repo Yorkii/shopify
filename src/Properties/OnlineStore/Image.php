@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\OnlineStore;
+namespace Yorki\Shopify\Properties\OnlineStore;
 
-use Yorkii\Shopify\Properties\Base;
+use Yorki\Shopify\Properties\Base;
 use \Carbon\Carbon;
 
 /**

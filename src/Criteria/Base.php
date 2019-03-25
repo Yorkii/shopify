@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria;
+namespace Yorki\Shopify\Criteria;
 
-use Yorkii\Shopify\Client;
-use Yorkii\Shopify\Data;
-use Yorkii\Shopify\Traits\Casts;
-use Yorkii\Shopify\Traits\TextTransform;
+use Yorki\Shopify\Client;
+use Yorki\Shopify\Data;
+use Yorki\Shopify\Traits\Casts;
+use Yorki\Shopify\Traits\TextTransform;
 
 class Base extends Data
 {

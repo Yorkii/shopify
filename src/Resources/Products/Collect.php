@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Products;
+namespace Yorki\Shopify\Resources\Products;
 
-use Yorkii\Shopify\Criteria\Products\CollectCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Criteria\Products\CollectCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Traits\Counts;
 use \Carbon\Carbon;
 
 /**

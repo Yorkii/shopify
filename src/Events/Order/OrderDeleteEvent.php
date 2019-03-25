@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Events\Order;
+namespace Yorki\Shopify\Events\Order;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Events\Base;
-use Yorkii\Shopify\Events\Schema\Address;
-use Yorkii\Shopify\Events\Schema\Customer;
-use Yorkii\Shopify\Events\Schema\LineItem;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Events\Base;
+use Yorki\Shopify\Events\Schema\Address;
+use Yorki\Shopify\Events\Schema\Customer;
+use Yorki\Shopify\Events\Schema\LineItem;
 use \Carbon\Carbon;
 
 /**

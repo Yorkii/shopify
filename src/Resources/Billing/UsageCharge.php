@@ -1,12 +1,12 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Billing;
+namespace Yorki\Shopify\Resources\Billing;
 
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Creates;
-use Yorkii\Shopify\Resources\Traits\Depends;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
-use Yorkii\Shopify\Resources\Traits\GetsSingle;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Creates;
+use Yorki\Shopify\Resources\Traits\Depends;
+use Yorki\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Traits\GetsSingle;
 use \Carbon\Carbon;
 
 /**

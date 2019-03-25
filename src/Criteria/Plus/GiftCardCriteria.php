@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Plus;
+namespace Yorki\Shopify\Criteria\Plus;
 
-use Yorkii\Shopify\Criteria\SimpleCriteria;
+use Yorki\Shopify\Criteria\SimpleCriteria;
 
 /**
  * @method $this whereStatus($status)

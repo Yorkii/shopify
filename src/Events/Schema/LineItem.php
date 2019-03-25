@@ -1,6 +1,6 @@
 <?php
 
-namespace Yorkii\Shopify\Events\Schema;
+namespace Yorki\Shopify\Events\Schema;
 
 /**
  * @property int $id

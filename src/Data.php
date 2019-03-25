@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify;
+namespace Yorki\Shopify;
 
-use Yorkii\Shopify\Traits\Casts;
-use Yorkii\Shopify\Traits\TextTransform;
+use Yorki\Shopify\Traits\Casts;
+use Yorki\Shopify\Traits\TextTransform;
 
 class Data
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Access;
+namespace Yorki\Shopify\Resources\Access;
 
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\Creates;
-use Yorkii\Shopify\Resources\Traits\Deletes;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\Creates;
+use Yorki\Shopify\Resources\Traits\Deletes;
+use Yorki\Shopify\Resources\Traits\GetsAll;
 use \Carbon\Carbon;
 
 /**

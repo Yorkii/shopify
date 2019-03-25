@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Traits;
+namespace Yorki\Shopify\Resources\Traits;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Base;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Base;
 
 trait GetsAll
 {

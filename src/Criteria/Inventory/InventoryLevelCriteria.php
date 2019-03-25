@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Inventory;
+namespace Yorki\Shopify\Criteria\Inventory;
 
-use Yorkii\Shopify\Criteria\Base;
+use Yorki\Shopify\Criteria\Base;
 
 /**
  * @method $this whereInventoryItemIds($inventoryItemIds)

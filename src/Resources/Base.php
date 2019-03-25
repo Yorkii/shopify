@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Resources;
+namespace Yorki\Shopify\Resources;
 
-use Yorkii\Shopify\Client;
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Data;
+use Yorki\Shopify\Client;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Data;
 
 abstract class Base extends Data
 {

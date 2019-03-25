@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\SalesChannels;
+namespace Yorki\Shopify\Properties\SalesChannels;
 
-use Yorkii\Shopify\Properties\Base;
+use Yorki\Shopify\Properties\Base;
 
 /**
  * @property string $first_name

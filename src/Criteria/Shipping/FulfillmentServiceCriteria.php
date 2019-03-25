@@ -1,8 +1,8 @@
 <?php
 
-namespace Yorkii\Shopify\Criteria\Shipping;
+namespace Yorki\Shopify\Criteria\Shipping;
 
-use Yorkii\Shopify\Criteria\Base;
+use Yorki\Shopify\Criteria\Base;
 
 /**
  * @method $this whereScope($scope)

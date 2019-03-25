@@ -1,10 +1,10 @@
 <?php
 
-namespace Yorkii\Shopify\Events\Cart;
+namespace Yorki\Shopify\Events\Cart;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Events\Base;
-use Yorkii\Shopify\Events\Schema\LineItem;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Events\Base;
+use Yorki\Shopify\Events\Schema\LineItem;
 
 /**
  * @property string $id

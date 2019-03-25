@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Properties\Orders;
+namespace Yorki\Shopify\Properties\Orders;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Properties\Base;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Properties\Base;
 
 /**
  * @property string $code

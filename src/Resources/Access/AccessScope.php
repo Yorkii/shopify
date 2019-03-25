@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Access;
+namespace Yorki\Shopify\Resources\Access;
 
-use Yorkii\Shopify\Resources\Base;
-use Yorkii\Shopify\Resources\Traits\GetsAll;
+use Yorki\Shopify\Resources\Base;
+use Yorki\Shopify\Resources\Traits\GetsAll;
 
 /**
  * @property string $handle

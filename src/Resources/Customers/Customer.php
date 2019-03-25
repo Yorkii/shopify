@@ -1,15 +1,15 @@
 <?php
 
-namespace Yorkii\Shopify\Resources\Customers;
+namespace Yorki\Shopify\Resources\Customers;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Criteria\Customers\CustomerCriteria;
-use Yorkii\Shopify\Resources\BaseResource;
-use Yorkii\Shopify\Resources\Metafield\Metafield;
-use Yorkii\Shopify\Resources\Traits\Counts;
-use Yorkii\Shopify\Resources\Traits\Provides;
-use Yorkii\Shopify\Resources\Traits\Searches;
-use Yorkii\Shopify\Resources\Orders\Order;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Criteria\Customers\CustomerCriteria;
+use Yorki\Shopify\Resources\BaseResource;
+use Yorki\Shopify\Resources\Metafield\Metafield;
+use Yorki\Shopify\Resources\Traits\Counts;
+use Yorki\Shopify\Resources\Traits\Provides;
+use Yorki\Shopify\Resources\Traits\Searches;
+use Yorki\Shopify\Resources\Orders\Order;
 use \Carbon\Carbon;
 
 /**

@@ -1,9 +1,9 @@
 <?php
 
-namespace Yorkii\Shopify\Events;
+namespace Yorki\Shopify\Events;
 
-use Yorkii\Shopify\Client;
-use Yorkii\Shopify\Data;
+use Yorki\Shopify\Client;
+use Yorki\Shopify\Data;
 
 abstract class Base extends Data
 {

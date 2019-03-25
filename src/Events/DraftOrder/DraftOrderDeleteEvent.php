@@ -1,11 +1,11 @@
 <?php
 
-namespace Yorkii\Shopify\Events\DraftOrder;
+namespace Yorki\Shopify\Events\DraftOrder;
 
-use Yorkii\Shopify\Collection;
-use Yorkii\Shopify\Events\Base;
-use Yorkii\Shopify\Events\Schema\Address;
-use Yorkii\Shopify\Events\Schema\Customer;
+use Yorki\Shopify\Collection;
+use Yorki\Shopify\Events\Base;
+use Yorki\Shopify\Events\Schema\Address;
+use Yorki\Shopify\Events\Schema\Customer;
 use \Carbon\Carbon;
 
 /**
