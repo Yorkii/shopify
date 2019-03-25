@@ -113,7 +113,7 @@ $product->setTitle('Star Wars T-Shirt')
 foreach ($product->variants as $variant) {
     // Change price for given sku
     if ($variant->sku === 'tshirt-star-wars') {
-        // Set new prive via property and save
+        // Set new price via property and save
         $variant->price = 19.99;
         $variant->save();
     }
